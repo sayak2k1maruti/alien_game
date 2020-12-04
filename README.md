@@ -5,14 +5,14 @@ This a game developed using python language
 
 ### Linux Or Max User:
 
-[x] Open terminal inside this folder and give command:  
-        $source env/bin/activate
-        $python main.py
+Open terminal inside this folder and give command:  
+             $source env/bin/activate  
+             $python main.py
 
+### Windows users :
 
-###Windows user:
-[x] Open command prompt and move to this directory then:
-    $  .\env\Scripts\activate
-    $  py main.py
+Open command prompt and move to this directory then:  
+            $  .\env\Scripts\activate   
+            $  py main.py
 
 
